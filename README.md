@@ -1,6 +1,6 @@
 # Gilded Rose
 
-This is the Gilded Rose kata in TypeScript.
+This is the Gilded Rose kata in TypeScript. The repo is setup with mutation testing and approval testing frameworks.
 
 ## Getting started
 
