@@ -10,6 +10,8 @@ Install dependencies
 npm install
 ```
 
+Follow the instructions on https://stryker-mutator.io/docs/stryker-js/getting-started/ to install mutation testing framework
+
 ## Running app
 _You may need to install `ts-node`_
 
