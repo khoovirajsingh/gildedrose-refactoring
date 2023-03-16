@@ -38,11 +38,9 @@ To run all tests in watch mode
 npm run test:jest:watch
 ```
 
-### Mocha way
+## Running mutation tests
 
 ```sh
-npm run test:mocha
+stryker run
 ```
-# gildedrose-refactoring
-# gildedrose-refactoring
-# gildedrose-refactoring
+
