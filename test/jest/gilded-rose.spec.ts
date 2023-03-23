@@ -1,4 +1,5 @@
 import { Item, GildedRose } from '@/gilded-rose';
+import 'jest-extended-snapshot';
 
 describe('Gilded Rose', () => {
   it('should foo', () => {
